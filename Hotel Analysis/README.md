@@ -46,7 +46,7 @@ We built **5 fully interactive dashboards** that answer key operational and mark
 ## 📸 Dashboard Screenshots
 
 ### 1. Booking Overview Dashboard
-![Booking Overview Dashboard](./Screenshots/booking_overview.png)
+![Booking Overview Dashboard](./Screenshots/Booking%20Overview%20Dashboard.png)
 
 ### 2. Customer Dashboard
 ![Customer Dashboard](./Screenshots/customer_dashboard.png)
