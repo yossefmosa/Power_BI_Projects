@@ -43,25 +43,6 @@ We built **5 fully interactive dashboards** that answer key operational and mark
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### 1. Booking Overview Dashboard
-![Booking Overview Dashboard](./Screenshots/Booking%20Overview%20Dashboard.png)
-
-### 2. Customer Dashboard
-![Customer Dashboard](./Screenshots/Customer%20Dashboard.png)
-
-### 3. Occupancy Dashboard
-![Occupancy Dashboard](./Screenshots/Occupancy%20Dashboard.png)
-
-### 4. Distribution Dashboard
-![Distribution Dashboard](./Screenshots/Distribution%20Dashboard.png)
-
-### 5. Waiting List Analysis Dashboard
-![Waiting List Analysis Dashboard](./Screenshots/Waiting%20List%20Analysis%20Dashboard.png)
-
----
-
 ## 📊 Data Model Description
 
 - **Tables:** Bookings, Customers, Rooms, Revenue, Calendar  
