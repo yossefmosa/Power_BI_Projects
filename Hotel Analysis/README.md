@@ -42,6 +42,24 @@ We built **5 fully interactive dashboards** that answer key operational and mark
 - **Design & Interactivity:** Interactive dashboards, bookmarks, tooltips  
 
 ---
+## 📸 Dashboard Screenshots
+
+### 1. Booking Overview Dashboard
+![image alt]( https://github.com/yossefmosa/Power_BI_Projects/blob/14e33f9537edd754a498caa270e4c6ef8882d9a0/Hotel%20Analysis/%D9%8DScreenshots/Booking%20Overview%20Dashboard.png)
+
+### 2. Customer Dashboard
+![image alt]( https://github.com/yossefmosa/Power_BI_Projects/blob/0358331777193836d1c1b01a2f9f79cd9e275f3b/Hotel%20Analysis/%D9%8DScreenshots/Customer%20Dashboard.png)
+
+### 3. Occupancy Dashboard
+![image alt]( https://github.com/yossefmosa/Power_BI_Projects/blob/0358331777193836d1c1b01a2f9f79cd9e275f3b/Hotel%20Analysis/%D9%8DScreenshots/Occupancy%20Dashboard.png)
+
+### 4. Distribution Dashboard
+![image alt]( https://github.com/yossefmosa/Power_BI_Projects/blob/0358331777193836d1c1b01a2f9f79cd9e275f3b/Hotel%20Analysis/%D9%8DScreenshots/Distribution%20Dashboard.png)
+
+### 5. Waiting List Analysis Dashboard
+![image alt]( https://github.com/yossefmosa/Power_BI_Projects/blob/0358331777193836d1c1b01a2f9f79cd9e275f3b/Hotel%20Analysis/%D9%8DScreenshots/Waiting%20List%20Analysis%20Dashboard.png)
+
+---
 
 ## 📊 Data Model Description
 
