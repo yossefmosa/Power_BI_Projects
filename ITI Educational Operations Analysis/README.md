@@ -18,45 +18,27 @@ The analysis is organized into **six core categories**, each representing a pill
 
 ### **1️⃣ Branches**
 Dashboards focused on comparing performance across ITI branches, covering:
-- Enrollment trends  
-- Training capacity  
-- Branch-level KPIs  
-- Resource distribution  
+- Enrollment trends, Training capacity, Branch-level KPIs and Resource distribution  
 
 ### **2️⃣ Tracks**
 Provides insights into track performance, including:
-- Popularity and enrollment  
-- Completion rates  
-- Track-specific KPIs  
-- Instructor distribution  
+- Popularity and enrollment, Completion rates, Track-specific KPIs and Instructor distribution  
 
 ### **3️⃣ Students**
 Centered on student activity and performance:
-- Attendance behavior  
-- Exam results  
-- Satisfaction metrics  
-- Student progression across modules  
+- Attendance behavior, Exam results, Satisfaction metrics and Student progression across modules  
 
 ### **4️⃣ Instructors**
 Evaluates instructors through:
-- Teaching load  
-- Evaluation scores  
-- Course delivery efficiency  
-- Performance indicators  
+- Teaching load, Evaluation scores, Course delivery efficiency and Performance indicators  
 
 ### **5️⃣ Courses**
 Covers academic planning and delivery:
-- Course demand  
-- Session scheduling  
-- Completion statistics  
-- Delivery quality and timing  
+- Course demand, Session scheduling, Completion statistics and Delivery quality and timing  
 
 ### **6️⃣ Exams**
 Exam-related analytics including:
-- Exam attendance  
-- Pass/fail rates  
-- Distribution of scores  
-- Exam difficulty trends  
+- Exam attendance, Pass/fail rates, Distribution of scores and Exam difficulty trends  
 
 ---
 
