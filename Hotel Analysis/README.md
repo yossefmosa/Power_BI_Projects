@@ -14,13 +14,9 @@ We built **5 fully interactive dashboards** that answer key operational and mark
 ## 📊 Key Features
 
 - **Booking Overview Dashboard**  
-
 - **Customer Dashboard**  
-
 - **Occupancy Dashboard**  
-
 - **Distribution Dashboard**  
-
 - **Waiting List Analysis Dashboard**  
 
 
