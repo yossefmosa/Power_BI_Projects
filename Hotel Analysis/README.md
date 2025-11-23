@@ -35,7 +35,8 @@ We built **5 fully interactive dashboards** that answer key operational and mark
 
 - **Business Intelligence:** Power BI, Power Query, DAX  
 - **Data Modeling:** Star Schema, Relationships, Parameter Inputs  
-- **Design & Interactivity:** Interactive dashboards, bookmarks, tooltips  
+- **Design & Interactivity:** Interactive dashboards, bookmarks, tooltips
+- Figma (UI/UX dashboard planning & layout design)
 
 ---
 ## 📸 Dashboard Screenshots
