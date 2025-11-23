@@ -93,8 +93,6 @@ Each dashboard is tailored to their workflow, enabling them to monitor performan
 
 ## 🖼️ Dashboard Examples
 
-ضع الصور داخل فولدر باسم **`/screenshots`**، ثم استخدم الأمثلة التالية:
-
 ### **🏠 Home Dashboard**
 ![image alt](https://github.com/yossefmosa/Power_BI_Projects/blob/4ea7419c74b710a53a76de0dc2366229cdcb7feb/ITI%20Educational%20Operations%20Analysis/Screenshots/Home.PNG)
 
@@ -118,7 +116,7 @@ Each dashboard is tailored to their workflow, enabling them to monitor performan
 ## ▶️ How to Use
 1. Download the `.pbix` file from this repository.  
 2. Open it using **Power BI Desktop (latest version recommended).**  
-3. Use slicers, drill-throughs, and tooltips to explore the dashboards.  
+3. Use slicers, filters, and tooltips for interactive exploration.  
 4. Navigate between the six categories for full institutional analysis.
 
 ---
